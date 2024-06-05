@@ -1,0 +1,5 @@
+---
+- name: Apache server Setup Playbook
+  hosts: dev
+  roles:
+   - Apache

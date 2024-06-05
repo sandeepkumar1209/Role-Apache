@@ -1,0 +1,5 @@
+---
+- name: Restarting the Apache HTTPD server
+  service:
+   name: httpd
+   state: restarted
