@@ -2,11 +2,13 @@
 galaxy_info:
   author: Sandeep
   description: Manage Apache Configuration
+  namespace: sandeep
+  company: sandeep
   company:
   min_ansible_version: 2.9
   platforms:
     - name: RedHat
       versions:
-        - 8.4
+        - 9.3
   galaxy_tags: []
 dependencies: []
