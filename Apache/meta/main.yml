@@ -1,14 +1,11 @@
 ---
 galaxy_info:
+  role_name: Apache
   author: Sandeep
   description: Manage Apache Configuration
   namespace: sandeep
   company: sandeep
-  company:
+  license: license (GPL-3.0)
   min_ansible_version: 2.9
-  platforms:
-    - name: RedHat
-      versions:
-        - 9.3
   galaxy_tags: []
 dependencies: []
